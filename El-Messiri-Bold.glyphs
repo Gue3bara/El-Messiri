@@ -780,7 +780,7 @@ value = (
 date = "1945-03-26 15:37:03 +0000";
 designer = "Mohamed Gaber";
 designerURL = "https://www.behance.net/gaber";
-familyName = "laimoon";
+familyName = "El-Messiri";
 featurePrefixes = (
 {
 automatic = 1;
@@ -853,7 +853,7 @@ name = underlineThickness;
 value = 102;
 }
 );
-descender = "-1260";
+descender = -1260;
 id = "9E57200A-6CEB-4B70-98B9-A6ACB8F2607D";
 weight = Bold;
 weightValue = 700;

@@ -779,7 +779,7 @@ value = (
 date = "2015-05-20 01:03:38 +0000";
 designer = "Mohamed Gaber";
 designerURL = "http://www.behnce.com/gaber";
-familyName = "laimoon";
+familyName = "El-Messiri";
 featurePrefixes = (
 {
 automatic = 1;
@@ -852,7 +852,7 @@ name = underlineThickness;
 value = 102;
 }
 );
-descender = "-1123";
+descender = -1123;
 id = "66C82CE7-ECCF-480D-AAE6-CD3075A06AEF";
 weightValue = 400;
 widthValue = 5;
