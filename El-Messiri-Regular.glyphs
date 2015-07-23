@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/hehgoal-ar.medi"
+);
 copyright = "Copyright 2015 Mohamed Gaber (gaber@gaberism.net)Copyright 2015 Mohamed Gaber (gaber@gaberism.net)";
 customParameters = (
 {
@@ -15042,7 +15045,7 @@ width = 329;
 },
 {
 glyphname = "dotlessbeh-ar.init";
-lastChange = "2015-07-20 02:03:11 +0000";
+lastChange = "2015-07-23 22:34:20 +0000";
 layers = (
 {
 anchors = (
@@ -21486,7 +21489,7 @@ unicode = 06BA;
 },
 {
 glyphname = "noonghunna-ar.fina";
-lastChange = "2015-07-23 01:16:52 +0000";
+lastChange = "2015-07-23 22:37:09 +0000";
 layers = (
 {
 anchors = (
@@ -21866,6 +21869,171 @@ width = 636;
 }
 );
 unicode = FEEB;
+},
+{
+glyphname = "hehgoal-ar";
+lastChange = "2015-07-23 22:30:14 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{258, -60}";
+},
+{
+name = top;
+position = "{258, 525}";
+}
+);
+components = (
+{
+name = "heh-ar";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 516;
+}
+);
+unicode = 06C1;
+},
+{
+glyphname = "hehgoal-ar.fina";
+lastChange = "2015-07-23 20:08:02 +0000";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 600;
+}
+);
+unicode = FBA7;
+},
+{
+glyphname = "hehgoal-ar.medi";
+lastChange = "2015-07-23 22:49:03 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{238, -300}";
+},
+{
+name = entry;
+position = "{475, 30}";
+},
+{
+name = exit;
+position = "{0, 30}";
+},
+{
+name = top;
+position = "{238, 480}";
+}
+);
+layerId = UUID0;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"329 60 LINE SMOOTH",
+"318 60 OFFCURVE",
+"308 51 OFFCURVE",
+"308 39 CURVE SMOOTH",
+"308 -176 LINE",
+"142 -176 OFFCURVE",
+"141 -38 OFFCURVE",
+"141 39 CURVE SMOOTH",
+"141 51 OFFCURVE",
+"131 60 OFFCURVE",
+"120 60 CURVE SMOOTH",
+"-20 60 LINE",
+"-20 0 LINE",
+"51 0 LINE",
+"51 -141 OFFCURVE",
+"121 -236 OFFCURVE",
+"376 -236 CURVE SMOOTH",
+"388 -236 OFFCURVE",
+"398 -227 OFFCURVE",
+"398 -215 CURVE SMOOTH",
+"398 0 LINE",
+"495 0 LINE",
+"495 60 LINE"
+);
+}
+);
+width = 475;
+}
+);
+unicode = FBA9;
+},
+{
+glyphname = "hehgoal-ar.init";
+lastChange = "2015-07-23 22:35:28 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{91, -225}";
+},
+{
+name = exit;
+position = "{0, 30}";
+},
+{
+name = top;
+position = "{91, 525}";
+}
+);
+layerId = UUID0;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"267 368 OFFCURVE",
+"239 480 OFFCURVE",
+"147 480 CURVE SMOOTH",
+"118 480 OFFCURVE",
+"102 469 OFFCURVE",
+"92 460 CURVE",
+"171 393 OFFCURVE",
+"177 300 OFFCURVE",
+"177 240 CURVE SMOOTH",
+"177 206 OFFCURVE",
+"175 60 OFFCURVE",
+"67 60 CURVE SMOOTH",
+"-20 60 LINE",
+"-20 0 LINE",
+"56 0 LINE",
+"52 -6 OFFCURVE",
+"32 -42 OFFCURVE",
+"32 -85 CURVE SMOOTH",
+"32 -99 OFFCURVE",
+"35 -168 OFFCURVE",
+"118 -168 CURVE SMOOTH",
+"189 -168 LINE",
+"189 -108 LINE",
+"118 -108 LINE SMOOTH",
+"95 -108 OFFCURVE",
+"87 -98 OFFCURVE",
+"87 -81 CURVE SMOOTH",
+"87 -35 OFFCURVE",
+"127 8 OFFCURVE",
+"129 10 CURVE",
+"238 46 OFFCURVE",
+"267 169 OFFCURVE",
+"267 270 CURVE SMOOTH"
+);
+}
+);
+width = 332;
+}
+);
+unicode = FBA8;
 },
 {
 glyphname = "tehMarbuta-ar";
@@ -22583,6 +22751,163 @@ width = 276;
 }
 );
 unicode = FE8B;
+},
+{
+glyphname = "yeh-farsi";
+lastChange = "2015-07-23 20:07:13 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{421, -276}";
+},
+{
+name = top;
+position = "{189, 311}";
+}
+);
+components = (
+{
+name = "alefMaksura-ar";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 866;
+}
+);
+unicode = 06CC;
+},
+{
+glyphname = "yeh-farsi.fina";
+lastChange = "2015-07-23 20:07:21 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{421, -276}";
+},
+{
+name = entry;
+position = "{912, 30}";
+},
+{
+name = top;
+position = "{189, 240}";
+}
+);
+components = (
+{
+name = "alefMaksura-ar.fina";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 912;
+}
+);
+unicode = FBFD;
+},
+{
+glyphname = "yeh-farsi.medi";
+lastChange = "2015-07-23 20:07:34 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{159, -250}";
+},
+{
+name = entry;
+position = "{329, 30}";
+},
+{
+name = exit;
+position = "{0, 30}";
+},
+{
+name = top;
+position = "{159, 525}";
+}
+);
+components = (
+{
+name = "yeh-ar.medi";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 329;
+}
+);
+unicode = FBFF;
+},
+{
+glyphname = "yeh-farsi.init";
+lastChange = "2015-07-23 20:07:44 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{91, -250}";
+},
+{
+name = exit;
+position = "{0, 30}";
+},
+{
+name = top;
+position = "{91, 525}";
+}
+);
+components = (
+{
+name = "yeh-ar.init";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 276;
+}
+);
+unicode = FBFE;
+},
+{
+glyphname = "kashida-ar";
+lastChange = "2015-07-23 20:07:02 +0000";
+layers = (
+{
+anchors = (
+{
+name = entry;
+position = "{153, 30}";
+},
+{
+name = exit;
+position = "{0, 30}";
+}
+);
+layerId = UUID0;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-20 0 LINE",
+"-20 60 LINE",
+"173 60 LINE",
+"173 0 LINE"
+);
+}
+);
+width = 153;
+}
+);
+unicode = 0640;
 },
 {
 glyphname = "lam_alef-ar";
