@@ -375,7 +375,7 @@ name = frac;
 },
 {
 automatic = 1;
-code = "feature frac;\012feature ccmp;\012feature sups;\012feature ordn;\012feature init;\012feature medi;\012feature fina;\012feature rlig;\012feature locl;\012";
+code = "feature frac;\012feature ccmp;\012feature locl;\012feature sups;\012feature ordn;\012feature init;\012feature medi;\012feature fina;\012feature rlig;\012";
 name = aalt;
 },
 {
