@@ -6,16 +6,8 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-name = description;
-value = "Copyright (c) 2011 by Jovanny Lemonad. All rights reserved.";
-},
-{
-name = trademark;
-value = "Philosopher is a trademark of Jovanny Lemonad.";
-},
-{
 name = license;
-value = "Copyright (c) June 5, 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name Nixie.\012\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL";
+value = "Copyright 2015 Mohamed Gaber (gaber@gaberism.net)Copyright 2015 Mohamed Gaber (gaber@gaberism.net)\012\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = openTypeOS2VendorID;
