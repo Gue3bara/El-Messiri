@@ -391,17 +391,17 @@ name = ordn;
 },
 {
 automatic = 1;
-code = "sub dotlessbeh-ar by dotlessbeh-ar.init;\012sub beh-ar by beh-ar.init;\012sub peh-ar by peh-ar.init;\012sub teh-ar by teh-ar.init;\012sub theh-ar by theh-ar.init;\012sub tteh-ar by tteh-ar.init;\012sub jeem-ar by jeem-ar.init;\012sub tcheh-ar by tcheh-ar.init;\012sub hah-ar by hah-ar.init;\012sub khah-ar by khah-ar.init;\012sub seen-ar by seen-ar.init;\012sub sheen-ar by sheen-ar.init;\012sub sad-ar by sad-ar.init;\012sub dad-ar by dad-ar.init;\012sub tah-ar by tah-ar.init;\012sub zah-ar by zah-ar.init;\012";
+code = "sub dotlessbeh-ar by dotlessbeh-ar.init;\012sub beh-ar by beh-ar.init;\012sub peh-ar by peh-ar.init;\012sub teh-ar by teh-ar.init;\012sub theh-ar by theh-ar.init;\012sub tteh-ar by tteh-ar.init;\012sub jeem-ar by jeem-ar.init;\012sub tcheh-ar by tcheh-ar.init;\012sub hah-ar by hah-ar.init;\012sub khah-ar by khah-ar.init;\012sub seen-ar by seen-ar.init;\012sub sheen-ar by sheen-ar.init;\012sub sad-ar by sad-ar.init;\012sub dad-ar by dad-ar.init;\012sub tah-ar by tah-ar.init;\012sub zah-ar by zah-ar.init;\012sub ain-ar by ain-ar.init;\012sub ghain-ar by ghain-ar.init;\012";
 name = init;
 },
 {
 automatic = 1;
-code = "sub dotlessbeh-ar by dotlessbeh-ar.medi;\012sub beh-ar by beh-ar.medi;\012sub peh-ar by peh-ar.medi;\012sub teh-ar by teh-ar.medi;\012sub theh-ar by theh-ar.medi;\012sub tteh-ar by tteh-ar.medi;\012sub jeem-ar by jeem-ar.medi;\012sub tcheh-ar by tcheh-ar.medi;\012sub hah-ar by hah-ar.medi;\012sub khah-ar by khah-ar.medi;\012sub seen-ar by seen-ar.medi;\012sub sheen-ar by sheen-ar.medi;\012sub sad-ar by sad-ar.medi;\012sub dad-ar by dad-ar.medi;\012sub tah-ar by tah-ar.medi;\012sub zah-ar by zah-ar.medi;\012";
+code = "sub dotlessbeh-ar by dotlessbeh-ar.medi;\012sub beh-ar by beh-ar.medi;\012sub peh-ar by peh-ar.medi;\012sub teh-ar by teh-ar.medi;\012sub theh-ar by theh-ar.medi;\012sub tteh-ar by tteh-ar.medi;\012sub jeem-ar by jeem-ar.medi;\012sub tcheh-ar by tcheh-ar.medi;\012sub hah-ar by hah-ar.medi;\012sub khah-ar by khah-ar.medi;\012sub seen-ar by seen-ar.medi;\012sub sheen-ar by sheen-ar.medi;\012sub sad-ar by sad-ar.medi;\012sub dad-ar by dad-ar.medi;\012sub tah-ar by tah-ar.medi;\012sub zah-ar by zah-ar.medi;\012sub ain-ar by ain-ar.medi;\012sub ghain-ar by ghain-ar.medi;\012";
 name = medi;
 },
 {
 automatic = 1;
-code = "sub alef-ar by alef-ar.fina;\012sub alefHamzaabove-ar by alefHamzaabove-ar.fina;\012sub alefHamzabelow-ar by alefHamzabelow-ar.fina;\012sub alefMadda-ar by alefMadda-ar.fina;\012sub alefWasla-ar by alefWasla-ar.fina;\012sub dotlessbeh-ar by dotlessbeh-ar.fina;\012sub beh-ar by beh-ar.fina;\012sub peh-ar by peh-ar.fina;\012sub teh-ar by teh-ar.fina;\012sub theh-ar by theh-ar.fina;\012sub tteh-ar by tteh-ar.fina;\012sub jeem-ar by jeem-ar.fina;\012sub tcheh-ar by tcheh-ar.fina;\012sub hah-ar by hah-ar.fina;\012sub khah-ar by khah-ar.fina;\012sub dal-ar by dal-ar.fina;\012sub thal-ar by thal-ar.fina;\012sub ddal-ar by ddal-ar.fina;\012sub reh-ar by reh-ar.fina;\012sub zain-ar by zain-ar.fina;\012sub rreh-ar by rreh-ar.fina;\012sub jeh-ar by jeh-ar.fina;\012sub seen-ar by seen-ar.fina;\012sub sheen-ar by sheen-ar.fina;\012sub sad-ar by sad-ar.fina;\012sub dad-ar by dad-ar.fina;\012sub tah-ar by tah-ar.fina;\012sub zah-ar by zah-ar.fina;\012";
+code = "sub alef-ar by alef-ar.fina;\012sub alefHamzaabove-ar by alefHamzaabove-ar.fina;\012sub alefHamzabelow-ar by alefHamzabelow-ar.fina;\012sub alefMadda-ar by alefMadda-ar.fina;\012sub alefWasla-ar by alefWasla-ar.fina;\012sub dotlessbeh-ar by dotlessbeh-ar.fina;\012sub beh-ar by beh-ar.fina;\012sub peh-ar by peh-ar.fina;\012sub teh-ar by teh-ar.fina;\012sub theh-ar by theh-ar.fina;\012sub tteh-ar by tteh-ar.fina;\012sub jeem-ar by jeem-ar.fina;\012sub tcheh-ar by tcheh-ar.fina;\012sub hah-ar by hah-ar.fina;\012sub khah-ar by khah-ar.fina;\012sub dal-ar by dal-ar.fina;\012sub thal-ar by thal-ar.fina;\012sub ddal-ar by ddal-ar.fina;\012sub reh-ar by reh-ar.fina;\012sub zain-ar by zain-ar.fina;\012sub rreh-ar by rreh-ar.fina;\012sub jeh-ar by jeh-ar.fina;\012sub seen-ar by seen-ar.fina;\012sub sheen-ar by sheen-ar.fina;\012sub sad-ar by sad-ar.fina;\012sub dad-ar by dad-ar.fina;\012sub tah-ar by tah-ar.fina;\012sub zah-ar by zah-ar.fina;\012sub ain-ar by ain-ar.fina;\012sub ghain-ar by ghain-ar.fina;\012";
 name = fina;
 }
 );
@@ -16163,7 +16163,7 @@ unicode = FB7C;
 },
 {
 glyphname = "hah-ar";
-lastChange = "2015-08-02 02:00:47 +0000";
+lastChange = "2015-08-05 19:00:57 +0000";
 layers = (
 {
 anchors = (
@@ -16611,7 +16611,7 @@ unicode = FEA7;
 },
 {
 glyphname = "dal-ar";
-lastChange = "2015-08-02 02:01:30 +0000";
+lastChange = "2015-08-05 19:06:57 +0000";
 layers = (
 {
 anchors = (
@@ -16650,9 +16650,9 @@ nodes = (
 "245 396 OFFCURVE",
 "245 396 CURVE SMOOTH",
 "245 396 OFFCURVE",
-"322 350 OFFCURVE",
-"322 246 CURVE SMOOTH",
-"322 163 OFFCURVE",
+"322 353 OFFCURVE",
+"322 241 CURVE SMOOTH",
+"322 165 OFFCURVE",
 "286 96 OFFCURVE",
 "169 96 CURVE SMOOTH",
 "107 96 LINE SMOOTH",
@@ -16672,7 +16672,7 @@ unicode = 062F;
 },
 {
 glyphname = "dal-ar.fina";
-lastChange = "2015-08-02 02:01:33 +0000";
+lastChange = "2015-08-05 19:07:05 +0000";
 layers = (
 {
 anchors = (
@@ -16714,9 +16714,9 @@ nodes = (
 "245 396 OFFCURVE",
 "245 396 CURVE SMOOTH",
 "245 396 OFFCURVE",
-"322 350 OFFCURVE",
-"322 246 CURVE SMOOTH",
-"322 163 OFFCURVE",
+"322 353 OFFCURVE",
+"322 241 CURVE SMOOTH",
+"322 165 OFFCURVE",
 "286 96 OFFCURVE",
 "169 96 CURVE SMOOTH",
 "107 96 LINE SMOOTH",
@@ -18718,6 +18718,460 @@ width = 845;
 }
 );
 unicode = FEC7;
+},
+{
+glyphname = "ain-ar";
+lastChange = "2015-08-05 19:38:43 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{306, -280}";
+},
+{
+name = top;
+position = "{306, 525}";
+}
+);
+layerId = UUID0;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"386 96 LINE SMOOTH",
+"269 96 OFFCURVE",
+"233 165 OFFCURVE",
+"233 241 CURVE SMOOTH",
+"233 353 OFFCURVE",
+"310 396 OFFCURVE",
+"310 396 CURVE SMOOTH",
+"310 396 OFFCURVE",
+"356 399 OFFCURVE",
+"356 307 CURVE",
+"356 307 OFFCURVE",
+"392 293 OFFCURVE",
+"419 293 CURVE SMOOTH",
+"454 293 OFFCURVE",
+"490 316 OFFCURVE",
+"490 367 CURVE SMOOTH",
+"490 461 OFFCURVE",
+"363 480 OFFCURVE",
+"324 480 CURVE SMOOTH",
+"246 480 OFFCURVE",
+"103 402 OFFCURVE",
+"103 249 CURVE SMOOTH",
+"103 211 OFFCURVE",
+"112 143 OFFCURVE",
+"144 88 CURVE",
+"87 66 OFFCURVE",
+"65 1 OFFCURVE",
+"65 -72 CURVE SMOOTH",
+"65 -147 OFFCURVE",
+"89 -266 OFFCURVE",
+"184 -266 CURVE SMOOTH",
+"240 -266 OFFCURVE",
+"251 -226 OFFCURVE",
+"251 -226 CURVE SMOOTH",
+"251 -226 OFFCURVE",
+"175 -178 OFFCURVE",
+"175 0 CURVE",
+"199 0 OFFCURVE",
+"448 0 OFFCURVE",
+"448 0 CURVE",
+"486 0 OFFCURVE",
+"490 32 OFFCURVE",
+"490 48 CURVE SMOOTH",
+"490 64 OFFCURVE",
+"486 96 OFFCURVE",
+"448 96 CURVE SMOOTH"
+);
+}
+);
+width = 555;
+}
+);
+unicode = 0639;
+},
+{
+glyphname = "ain-ar.fina";
+lastChange = "2015-08-05 19:39:06 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{306, -280}";
+},
+{
+name = entry;
+position = "{598, 46}";
+},
+{
+name = top;
+position = "{306, 525}";
+}
+);
+layerId = UUID0;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"560 150 OFFCURVE",
+"568 214 OFFCURVE",
+"568 250 CURVE SMOOTH",
+"568 387 OFFCURVE",
+"452 480 OFFCURVE",
+"300 480 CURVE SMOOTH",
+"219 480 OFFCURVE",
+"65 453 OFFCURVE",
+"65 372 CURVE SMOOTH",
+"65 359 OFFCURVE",
+"69 344 OFFCURVE",
+"75 335 CURVE",
+"251 96 LINE",
+"208 96 LINE SMOOTH",
+"118 96 OFFCURVE",
+"84 18 OFFCURVE",
+"84 -72 CURVE SMOOTH",
+"84 -147 OFFCURVE",
+"108 -266 OFFCURVE",
+"203 -266 CURVE SMOOTH",
+"259 -266 OFFCURVE",
+"270 -226 OFFCURVE",
+"270 -226 CURVE SMOOTH",
+"270 -226 OFFCURVE",
+"194 -178 OFFCURVE",
+"194 0 CURVE",
+"203 0 OFFCURVE",
+"377 0 OFFCURVE",
+"377 0 CURVE",
+"413 0 OFFCURVE",
+"443 10 OFFCURVE",
+"467 25 CURVE",
+"495 8 OFFCURVE",
+"527 0 OFFCURVE",
+"560 0 CURVE SMOOTH",
+"618 0 LINE",
+"618 96 LINE",
+"531 96 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"204 330 LINE",
+"222 376 OFFCURVE",
+"277 384 OFFCURVE",
+"297 384 CURVE SMOOTH",
+"338 384 OFFCURVE",
+"438 349 OFFCURVE",
+"438 240 CURVE SMOOTH",
+"438 198 OFFCURVE",
+"423 136 OFFCURVE",
+"365 111 CURVE"
+);
+}
+);
+width = 598;
+}
+);
+unicode = FECA;
+},
+{
+glyphname = "ain-ar.medi";
+lastChange = "2015-08-05 19:39:45 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{271, -60}";
+},
+{
+name = entry;
+position = "{542, 46}";
+},
+{
+name = exit;
+position = "{0, 46}";
+},
+{
+name = top;
+position = "{260, 525}";
+}
+);
+layerId = UUID0;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"158 330 LINE",
+"176 376 OFFCURVE",
+"231 384 OFFCURVE",
+"251 384 CURVE SMOOTH",
+"292 384 OFFCURVE",
+"392 349 OFFCURVE",
+"392 240 CURVE SMOOTH",
+"392 198 OFFCURVE",
+"377 136 OFFCURVE",
+"319 111 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"32 0 OFFCURVE",
+"331 0 OFFCURVE",
+"331 0 CURVE",
+"367 0 OFFCURVE",
+"397 10 OFFCURVE",
+"421 25 CURVE",
+"449 8 OFFCURVE",
+"481 0 OFFCURVE",
+"514 0 CURVE SMOOTH",
+"562 0 LINE",
+"562 96 LINE",
+"485 96 LINE",
+"514 150 OFFCURVE",
+"522 214 OFFCURVE",
+"522 250 CURVE SMOOTH",
+"522 387 OFFCURVE",
+"406 480 OFFCURVE",
+"254 480 CURVE SMOOTH",
+"173 480 OFFCURVE",
+"19 453 OFFCURVE",
+"19 372 CURVE SMOOTH",
+"19 359 OFFCURVE",
+"23 344 OFFCURVE",
+"29 335 CURVE",
+"205 96 LINE",
+"-20 96 LINE",
+"-20 0 LINE"
+);
+}
+);
+width = 542;
+}
+);
+unicode = FECC;
+},
+{
+glyphname = "ain-ar.init";
+lastChange = "2015-08-05 19:06:37 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{249, -60}";
+},
+{
+name = exit;
+position = "{0, 48}";
+},
+{
+name = top;
+position = "{249, 525}";
+}
+);
+layerId = UUID0;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"329 96 LINE SMOOTH",
+"212 96 OFFCURVE",
+"176 165 OFFCURVE",
+"176 241 CURVE SMOOTH",
+"176 353 OFFCURVE",
+"253 396 OFFCURVE",
+"253 396 CURVE SMOOTH",
+"253 396 OFFCURVE",
+"299 399 OFFCURVE",
+"299 307 CURVE",
+"299 307 OFFCURVE",
+"335 293 OFFCURVE",
+"362 293 CURVE SMOOTH",
+"397 293 OFFCURVE",
+"433 316 OFFCURVE",
+"433 367 CURVE SMOOTH",
+"433 461 OFFCURVE",
+"306 480 OFFCURVE",
+"267 480 CURVE SMOOTH",
+"189 480 OFFCURVE",
+"46 402 OFFCURVE",
+"46 249 CURVE SMOOTH",
+"46 213 OFFCURVE",
+"54 150 OFFCURVE",
+"83 96 CURVE",
+"-20 96 LINE",
+"-20 0 LINE",
+"38 0 LINE SMOOTH",
+"75 0 OFFCURVE",
+"109 9 OFFCURVE",
+"139 29 CURVE",
+"165 11 OFFCURVE",
+"197 0 OFFCURVE",
+"237 0 CURVE SMOOTH",
+"391 0 LINE SMOOTH",
+"429 0 OFFCURVE",
+"433 32 OFFCURVE",
+"433 48 CURVE SMOOTH",
+"433 64 OFFCURVE",
+"429 96 OFFCURVE",
+"391 96 CURVE SMOOTH"
+);
+}
+);
+width = 498;
+}
+);
+unicode = FECB;
+},
+{
+glyphname = "ghain-ar";
+lastChange = "2015-08-05 19:40:10 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{306, -280}";
+},
+{
+name = top;
+position = "{306, 740}";
+}
+);
+components = (
+{
+name = "ain-ar";
+},
+{
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 307, 65}";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 555;
+}
+);
+unicode = 063A;
+},
+{
+glyphname = "ghain-ar.fina";
+lastChange = "2015-08-05 19:40:24 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{306, -280}";
+},
+{
+name = entry;
+position = "{598, 46}";
+},
+{
+name = top;
+position = "{306, 740}";
+}
+);
+components = (
+{
+name = "ain-ar.fina";
+},
+{
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 307, 65}";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 598;
+}
+);
+unicode = FECE;
+},
+{
+glyphname = "ghain-ar.medi";
+lastChange = "2015-08-05 19:40:39 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{271, -60}";
+},
+{
+name = entry;
+position = "{542, 46}";
+},
+{
+name = exit;
+position = "{0, 46}";
+},
+{
+name = top;
+position = "{260, 740}";
+}
+);
+components = (
+{
+name = "ain-ar.medi";
+},
+{
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 261, 65}";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 542;
+}
+);
+unicode = FED0;
+},
+{
+glyphname = "ghain-ar.init";
+lastChange = "2015-08-05 19:40:47 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{271, -60}";
+},
+{
+name = exit;
+position = "{0, 46}";
+},
+{
+name = top;
+position = "{260, 740}";
+}
+);
+components = (
+{
+name = "ain-ar.init";
+},
+{
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 250, 65}";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 498;
+}
+);
+unicode = FECF;
 },
 {
 glyphname = .notdef;
