@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/peh-ar.medi"
+);
 copyright = "Copyright 2015 Mohamed Gaber (gaber@gaberism.net)Copyright 2015 Mohamed Gaber (gaber@gaberism.net)";
 customParameters = (
 {
@@ -15160,7 +15163,7 @@ unicode = FE90;
 },
 {
 glyphname = "beh-ar.medi";
-lastChange = "2015-07-20 00:09:25 +0000";
+lastChange = "2015-09-26 02:34:18 +0000";
 layers = (
 {
 anchors = (
@@ -15178,7 +15181,7 @@ position = "{0, 30}";
 },
 {
 name = top;
-position = "{159, 561}";
+position = "{159, 575}";
 }
 );
 components = (
@@ -15300,13 +15303,13 @@ unicode = FB57;
 },
 {
 glyphname = "peh-ar.medi";
-lastChange = "2015-07-20 00:58:54 +0000";
+lastChange = "2015-09-26 02:36:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{159, -380}";
+position = "{159, -400}";
 },
 {
 name = entry;
@@ -15318,7 +15321,7 @@ position = "{0, 30}";
 },
 {
 name = top;
-position = "{159, 561}";
+position = "{159, 575}";
 }
 );
 components = (
@@ -16814,7 +16817,7 @@ unicode = 0631;
 },
 {
 glyphname = "reh-ar.fina";
-lastChange = "2015-08-11 01:59:51 +0000";
+lastChange = "2015-09-26 02:17:10 +0000";
 layers = (
 {
 anchors = (
@@ -16842,8 +16845,8 @@ nodes = (
 "220 -73 CURVE SMOOTH",
 "220 23 LINE",
 "241 9 OFFCURVE",
-"263 0 OFFCURVE",
-"306 0 CURVE SMOOTH",
+"256 0 OFFCURVE",
+"299 0 CURVE SMOOTH",
 "339 0 LINE",
 "339 60 LINE",
 "220 60 LINE",
@@ -24098,6 +24101,185 @@ width = 698;
 );
 leftMetricsKey = "lam-ar.init";
 rightMetricsKey = "alefWasla-ar.fina";
+},
+{
+glyphname = "beh_reh-ar.fina";
+lastChange = "2015-09-26 02:34:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom_1;
+position = "{478, -300}";
+},
+{
+name = bottom_2;
+position = "{160, -300}";
+},
+{
+name = caret_1;
+position = "{324, 0}";
+},
+{
+name = entry;
+position = "{648, 30}";
+},
+{
+name = top_1;
+position = "{478, 575}";
+},
+{
+name = top_2;
+position = "{175, 575}";
+}
+);
+components = (
+{
+name = "alefMaksura_reh-ar.fina";
+},
+{
+anchor = bottom_1;
+name = "dotbelow-ar";
+transform = "{1, 0, 0, 1, 478, -80}";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 648;
+}
+);
+leftMetricsKey = "beh-ar.medi";
+rightMetricsKey = "reh-ar.fina";
+unicode = FC6A;
+},
+{
+glyphname = "peh_reh-ar.fina";
+lastChange = "2015-09-26 02:36:17 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom_1;
+position = "{478, -400}";
+},
+{
+name = bottom_2;
+position = "{160, -300}";
+},
+{
+name = caret_1;
+position = "{324, 0}";
+},
+{
+name = entry;
+position = "{648, 30}";
+},
+{
+name = top_1;
+position = "{478, 575}";
+},
+{
+name = top_2;
+position = "{175, 575}";
+}
+);
+components = (
+{
+name = "alefMaksura_reh-ar.fina";
+},
+{
+anchor = bottom_1;
+name = "threedotsdownbelow-ar";
+transform = "{1, 0, 0, 1, 478, -80}";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 648;
+}
+);
+leftMetricsKey = "peh-ar.init";
+rightMetricsKey = "reh-ar.fina";
+},
+{
+glyphname = "alefMaksura_reh-ar.fina";
+lastChange = "2015-09-26 02:33:37 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom_1;
+position = "{478, -60}";
+},
+{
+name = bottom_2;
+position = "{160, -300}";
+},
+{
+name = caret_1;
+position = "{324, 0}";
+},
+{
+name = entry;
+position = "{648, 30}";
+},
+{
+name = top_1;
+position = "{478, 525}";
+},
+{
+name = top_2;
+position = "{175, 525}";
+}
+);
+layerId = UUID0;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"551 60 OFFCURVE",
+"523 123 OFFCURVE",
+"523 178 CURVE SMOOTH",
+"523 381 LINE SMOOTH",
+"523 470 OFFCURVE",
+"469 480 OFFCURVE",
+"407 480 CURVE SMOOTH",
+"192 480 OFFCURVE",
+"130 362 OFFCURVE",
+"130 362 CURVE",
+"130 -85 LINE SMOOTH",
+"130 -123 OFFCURVE",
+"102 -185 OFFCURVE",
+"17 -185 CURVE SMOOTH",
+"2 -185 OFFCURVE",
+"-23 -183 OFFCURVE",
+"-45 -177 CURVE",
+"-41 -183 OFFCURVE",
+"-8 -229 OFFCURVE",
+"72 -229 CURVE SMOOTH",
+"194 -229 OFFCURVE",
+"220 -121 OFFCURVE",
+"220 -73 CURVE SMOOTH",
+"220 361 LINE",
+"263 384 OFFCURVE",
+"317 410 OFFCURVE",
+"433 410 CURVE",
+"433 195 LINE SMOOTH",
+"433 58 OFFCURVE",
+"505 0 OFFCURVE",
+"585 0 CURVE SMOOTH",
+"668 0 LINE",
+"668 60 LINE",
+"612 60 LINE SMOOTH"
+);
+}
+);
+width = 648;
+}
+);
+leftMetricsKey = "alefMaksura-ar.init";
+rightMetricsKey = "reh-ar.fina";
 },
 {
 glyphname = "allah-ar";
