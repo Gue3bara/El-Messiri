@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/peh-ar.medi"
-);
 copyright = "Copyright 2015 Mohamed Gaber (gaber@gaberism.net)Copyright 2015 Mohamed Gaber (gaber@gaberism.net)";
 customParameters = (
 {
@@ -27584,7 +27581,7 @@ unicode = FB58;
 },
 {
 glyphname = "teh-ar";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -27627,7 +27624,7 @@ name = "dotlessbeh-ar";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 414, 25}";
+transform = "{1, 0, 0, 1, 414, 12}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -27639,7 +27636,7 @@ unicode = 062A;
 },
 {
 glyphname = "teh-ar.fina";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -27690,7 +27687,7 @@ name = "dotlessbeh-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 414, 25}";
+transform = "{1, 0, 0, 1, 414, 12}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -27702,7 +27699,7 @@ unicode = FE96;
 },
 {
 glyphname = "teh-ar.medi";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -27761,7 +27758,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 182, 70}";
+transform = "{1, 0, 0, 1, 182, 57}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -27773,7 +27770,7 @@ unicode = FE98;
 },
 {
 glyphname = "teh-ar.init";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -27824,7 +27821,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 175, 70}";
+transform = "{1, 0, 0, 1, 175, 57}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -28592,7 +28589,7 @@ unicode = FE9F;
 },
 {
 glyphname = "tcheh-ar";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -28642,14 +28639,14 @@ transform = "{1, 0, 0, 1, 423, -47}";
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
 name = Bold;
-width = 639;
+width = 669;
 }
 );
 unicode = 0686;
 },
 {
 glyphname = "tcheh-ar.fina";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -28707,7 +28704,7 @@ transform = "{1, 0, 0, 1, 423, -47}";
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
 name = Bold;
-width = 656;
+width = 671;
 }
 );
 unicode = FB7B;
@@ -35860,7 +35857,7 @@ width = 946;
 },
 {
 glyphname = "qaf-ar";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -35903,7 +35900,7 @@ name = "dotlessqaf-ar";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 656, 70}";
+transform = "{1, 0, 0, 1, 656, 57}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -35915,7 +35912,7 @@ unicode = 0642;
 },
 {
 glyphname = "qaf-ar.fina";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -35966,7 +35963,7 @@ name = "dotlessqaf-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 656, 70}";
+transform = "{1, 0, 0, 1, 656, 57}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -35978,7 +35975,7 @@ unicode = FED6;
 },
 {
 glyphname = "qaf-ar.medi";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -36037,7 +36034,7 @@ name = "dotlessfeh-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 282, 70}";
+transform = "{1, 0, 0, 1, 282, 57}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -36049,7 +36046,7 @@ unicode = FED8;
 },
 {
 glyphname = "qaf-ar.init";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -36100,7 +36097,7 @@ name = "dotlessfeh-ar.init";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 283, 70}";
+transform = "{1, 0, 0, 1, 283, 57}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -40759,7 +40756,7 @@ unicode = FBAC;
 },
 {
 glyphname = "tehMarbuta-ar";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -40802,7 +40799,7 @@ name = "heh-ar";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 295, 70}";
+transform = "{1, 0, 0, 1, 295, 57}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -40814,7 +40811,7 @@ unicode = 0629;
 },
 {
 glyphname = "tehMarbuta-ar.fina";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -40865,7 +40862,7 @@ name = "heh-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 268, 70}";
+transform = "{1, 0, 0, 1, 268, 57}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -40877,7 +40874,7 @@ unicode = FE94;
 },
 {
 glyphname = "tehMarbutagoal-ar";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -40920,7 +40917,7 @@ name = "heh-ar";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 295, 70}";
+transform = "{1, 0, 0, 1, 295, 57}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -40932,7 +40929,7 @@ unicode = 06C3;
 },
 {
 glyphname = "tehMarbutagoal-ar.fina";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-10-19 22:00:27 +0000";
 layers = (
 {
 anchors = (
@@ -40983,7 +40980,7 @@ name = "hehgoal-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 414, 70}";
+transform = "{1, 0, 0, 1, 414, 57}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
