@@ -349,7 +349,7 @@ value = (
 );
 }
 );
-date = "2015-08-11 02:00:31 +0000";
+date = "2015-12-05 20:04:09 +0000";
 designer = " ";
 designerURL = " ";
 familyName = "El-Messiri";
@@ -418,16 +418,16 @@ name = dlig;
 );
 fontMaster = (
 {
-ascender = 660;
+ascender = 864;
 capHeight = 660;
-descender = -279;
+descender = -411;
 id = UUID0;
 xHeight = 480;
 },
 {
-ascender = 660;
+ascender = 864;
 capHeight = 660;
-descender = -279;
+descender = -431;
 id = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
 weight = Bold;
 weightValue = 200;
@@ -26197,7 +26197,7 @@ unicode = 0623;
 },
 {
 glyphname = "alefHamzaabove-ar.fina";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-12-05 20:01:29 +0000";
 layers = (
 {
 anchors = (
@@ -42155,7 +42155,7 @@ unicode = 064A;
 },
 {
 glyphname = "yeh-ar.fina";
-lastChange = "2015-10-19 21:38:50 +0000";
+lastChange = "2015-12-05 20:03:31 +0000";
 layers = (
 {
 anchors = (
