@@ -347,6 +347,10 @@ value = (
     "circumflex.alt1",
     "dieresis.alt2"
 );
+},
+{
+name = vendorID;
+value = "1KTF";
 }
 );
 date = "2015-12-05 20:04:09 +0000";
