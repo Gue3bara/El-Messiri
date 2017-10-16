@@ -1,9 +1,9 @@
 {
-.appVersion = "1064";
+.appVersion = "1073";
 DisplayStrings = (
-/oe
+"/oe"
 );
-copyright = "Copyright 2015 The El Messiri Project Authors.";
+copyright = "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)";
 customParameters = (
 {
 name = licenseURL;
@@ -388,11 +388,11 @@ value = 0;
 },
 {
 name = winDescent;
-value = 544;
+value = 435;
 },
 {
 name = winAscent;
-value = 1019;
+value = 993;
 }
 );
 descender = -411;
@@ -435,11 +435,11 @@ value = 0;
 },
 {
 name = winDescent;
-value = 544;
+value = 435;
 },
 {
 name = winAscent;
-value = 1019;
+value = 993;
 }
 );
 descender = -431;
