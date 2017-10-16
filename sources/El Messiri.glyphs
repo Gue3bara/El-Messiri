@@ -1,5 +1,8 @@
 {
-.appVersion = "1073";
+.appVersion = "1064";
+DisplayStrings = (
+/oe
+);
 copyright = "Copyright 2015 The El Messiri Project Authors.";
 customParameters = (
 {
@@ -36,7 +39,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-08-04 13:41:21 +0000";
+date = "2017-10-16 12:30:40 +0000";
 designer = "Mohamed Gaber";
 designerURL = "http://gaberism.net/";
 familyName = "El Messiri";
@@ -123,9 +126,9 @@ name = locl;
 },
 {
 automatic = 1;
-code = "sub two by twosuperior;
+code = "sub one by onesuperior;
+sub two by twosuperior;
 sub three by threesuperior;
-sub one by onesuperior;
 ";
 name = sups;
 },
@@ -7389,12 +7392,13 @@ components = (
 name = o;
 },
 {
+alignment = -1;
 name = e;
-transform = "{1, 0, 0, 1, 530, 0}";
+transform = "{1, 0, 0, 1, 345, 0}";
 }
 );
 layerId = UUID0;
-width = 1018;
+width = 833;
 },
 {
 components = (
@@ -7402,12 +7406,13 @@ components = (
 name = o;
 },
 {
+alignment = -1;
 name = e;
 transform = "{1, 0, 0, 1, 344, 0}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
-width = 853;
+width = 857;
 }
 );
 leftKerningGroup = c;
