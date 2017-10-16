@@ -1,8 +1,5 @@
 {
-.appVersion = "1045";
-DisplayStrings = (
-/florin
-);
+.appVersion = "1073";
 copyright = "Copyright 2015 The El Messiri Project Authors.";
 customParameters = (
 {
@@ -388,11 +385,11 @@ value = 0;
 },
 {
 name = winDescent;
-value = 543;
+value = 544;
 },
 {
 name = winAscent;
-value = 1020;
+value = 1019;
 }
 );
 descender = -411;
@@ -435,11 +432,11 @@ value = 0;
 },
 {
 name = winDescent;
-value = 543;
+value = 544;
 },
 {
 name = winAscent;
-value = 1020;
+value = 1019;
 }
 );
 descender = -431;
@@ -7393,11 +7390,11 @@ name = o;
 },
 {
 name = e;
-transform = "{1, 0, 0, 1, 344, 0}";
+transform = "{1, 0, 0, 1, 530, 0}";
 }
 );
 layerId = UUID0;
-width = 834;
+width = 1018;
 },
 {
 components = (
@@ -52111,11 +52108,33 @@ glyphname = macron;
 layers = (
 {
 layerId = UUID0;
-width = 250;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 700 LINE",
+"252 700 LINE",
+"252 733 LINE",
+"20 733 LINE"
+);
+}
+);
+width = 272;
 },
 {
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
-width = 250;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 700 LINE",
+"312 700 LINE",
+"312 766 LINE",
+"20 766 LINE"
+);
+}
+);
+width = 332;
 }
 );
 unicode = 00AF;
