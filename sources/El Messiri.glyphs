@@ -27,10 +27,6 @@ value = (
 );
 },
 {
-name = "Use Typo Metrics";
-value = 1;
-},
-{
 name = "Disable Last Change";
 value = 1;
 },
