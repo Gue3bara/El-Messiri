@@ -1,7 +1,7 @@
 {
-.appVersion = "1073";
+.appVersion = "1075";
 DisplayStrings = (
-"/oe"
+/oe
 );
 copyright = "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)";
 customParameters = (
@@ -25,10 +25,6 @@ value = "1KTF";
 name = fsType;
 value = (
 );
-},
-{
-name = "Use Typo Metrics";
-value = 1;
 },
 {
 name = "Disable Last Change";
@@ -368,7 +364,7 @@ value = 1019;
 },
 {
 name = typoDescender;
-value = 544;
+value = -544;
 },
 {
 name = typoLineGap;
@@ -415,7 +411,7 @@ value = 1019;
 },
 {
 name = typoDescender;
-value = 544;
+value = -544;
 },
 {
 name = typoLineGap;
