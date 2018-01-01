@@ -1,8 +1,5 @@
 {
-.appVersion = "1073";
-DisplayStrings = (
-"/oe"
-);
+.appVersion = "1075";
 copyright = "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)";
 customParameters = (
 {
@@ -39,7 +36,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-10-16 12:30:40 +0000";
+date = "2018-01-01 22:14:49 +0000";
 designer = "Mohamed Gaber";
 designerURL = "http://gaberism.net/";
 familyName = "El Messiri";
@@ -56039,7 +56036,7 @@ position = "{0, 465}";
 },
 {
 name = top;
-position = "{0, 753}";
+position = "{0, 661}";
 }
 );
 layerId = UUID0;
@@ -56050,13 +56047,13 @@ nodes = (
 "73 485 OFFCURVE",
 "104 523 OFFCURVE",
 "104 587 CURVE SMOOTH",
-"104 738 LINE SMOOTH",
-"104 753 OFFCURVE",
-"91 753 OFFCURVE",
-"86 753 CURVE SMOOTH",
-"83 753 OFFCURVE",
-"70 753 OFFCURVE",
-"70 738 CURVE SMOOTH",
+"104 646 LINE SMOOTH",
+"104 661 OFFCURVE",
+"91 661 OFFCURVE",
+"86 661 CURVE SMOOTH",
+"83 661 OFFCURVE",
+"70 661 OFFCURVE",
+"70 646 CURVE SMOOTH",
 "70 593 LINE SMOOTH",
 "70 562 OFFCURVE",
 "68 507 OFFCURVE",
@@ -56089,7 +56086,7 @@ position = "{0, 465}";
 },
 {
 name = top;
-position = "{0, 753}";
+position = "{0, 661}";
 }
 );
 layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
@@ -56100,13 +56097,13 @@ nodes = (
 "84 485 OFFCURVE",
 "109 530 OFFCURVE",
 "109 586 CURVE SMOOTH",
-"109 727 LINE SMOOTH",
-"109 740 OFFCURVE",
-"103 753 OFFCURVE",
-"84 753 CURVE SMOOTH",
-"66 753 OFFCURVE",
-"60 740 OFFCURVE",
-"60 728 CURVE SMOOTH",
+"109 635 LINE SMOOTH",
+"109 648 OFFCURVE",
+"103 661 OFFCURVE",
+"84 661 CURVE SMOOTH",
+"66 661 OFFCURVE",
+"60 648 OFFCURVE",
+"60 636 CURVE SMOOTH",
 "60 576 LINE SMOOTH",
 "60 551 OFFCURVE",
 "48 520 OFFCURVE",
@@ -60937,5 +60934,5 @@ arBar = "70";
 };
 };
 versionMajor = 2;
-versionMinor = 8;
+versionMinor = 9;
 }
