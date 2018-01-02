@@ -1,11 +1,5 @@
 {
 .appVersion = "1075";
-<<<<<<< HEAD
-=======
-DisplayStrings = (
-/oe
-);
->>>>>>> origin/master
 copyright = "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)";
 customParameters = (
 {
@@ -56034,6 +56028,108 @@ layers = (
 anchors = (
 {
 name = _top;
+position = "{112, 465}";
+},
+{
+name = top;
+position = "{112, 661}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"192 490 OFFCURVE",
+"224 542 OFFCURVE",
+"224 583 CURVE SMOOTH",
+"224 615 OFFCURVE",
+"206 656 OFFCURVE",
+"179 656 CURVE SMOOTH",
+"173 656 OFFCURVE",
+"166 654 OFFCURVE",
+"159 650 CURVE",
+"164 646 OFFCURVE",
+"188 620 OFFCURVE",
+"188 581 CURVE SMOOTH",
+"188 525 OFFCURVE",
+"141 512 OFFCURVE",
+"112 512 CURVE SMOOTH",
+"83 512 OFFCURVE",
+"36 525 OFFCURVE",
+"36 581 CURVE SMOOTH",
+"36 620 OFFCURVE",
+"60 646 OFFCURVE",
+"65 650 CURVE",
+"58 654 OFFCURVE",
+"51 656 OFFCURVE",
+"45 656 CURVE SMOOTH",
+"18 656 OFFCURVE",
+"0 615 OFFCURVE",
+"0 583 CURVE SMOOTH",
+"0 542 OFFCURVE",
+"32 490 OFFCURVE",
+"112 490 CURVE SMOOTH"
+);
+}
+);
+width = 224;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{113, 465}";
+},
+{
+name = top;
+position = "{113, 661}";
+}
+);
+layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
+paths = (
+{
+closed = 1;
+nodes = (
+"188 490 OFFCURVE",
+"226 529 OFFCURVE",
+"226 588 CURVE SMOOTH",
+"226 616 OFFCURVE",
+"217 656 OFFCURVE",
+"180 656 CURVE SMOOTH",
+"166 656 OFFCURVE",
+"155 650 OFFCURVE",
+"150 645 CURVE",
+"162 637 OFFCURVE",
+"177 615 OFFCURVE",
+"177 586 CURVE SMOOTH",
+"177 546 OFFCURVE",
+"149 525 OFFCURVE",
+"113 525 CURVE SMOOTH",
+"77 525 OFFCURVE",
+"49 546 OFFCURVE",
+"49 586 CURVE SMOOTH",
+"49 615 OFFCURVE",
+"64 637 OFFCURVE",
+"76 645 CURVE",
+"71 650 OFFCURVE",
+"60 656 OFFCURVE",
+"46 656 CURVE SMOOTH",
+"9 656 OFFCURVE",
+"0 616 OFFCURVE",
+"0 588 CURVE SMOOTH",
+"0 529 OFFCURVE",
+"38 490 OFFCURVE",
+"113 490 CURVE SMOOTH"
+);
+}
+);
+width = 226;
+},
+{
+anchors = (
+{
+name = _top;
 position = "{0, 465}";
 },
 {
@@ -56041,7 +56137,9 @@ name = top;
 position = "{0, 661}";
 }
 );
-layerId = UUID0;
+associatedMasterId = UUID0;
+layerId = "334CF119-561D-4C48-88C2-2D620D7D5743";
+name = "Jan 2 18, 23:23";
 paths = (
 {
 closed = 1;
@@ -56091,7 +56189,9 @@ name = top;
 position = "{0, 661}";
 }
 );
-layerId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
+associatedMasterId = "BAEEE752-CD63-427F-8763-260FDB7B8BAE";
+layerId = "8D740269-A55E-446F-9F58-8533CC852EBA";
+name = "Jan 2 18, 23:23";
 paths = (
 {
 closed = 1;
