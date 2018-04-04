@@ -1,5 +1,8 @@
 {
-.appVersion = "1075";
+.appVersion = "1126";
+DisplayStrings = (
+"/yehbarree-ar"
+);
 copyright = "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)";
 customParameters = (
 {
@@ -30,6 +33,19 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+},
+{
+name = "Variation Font Origin";
+value = UUID0;
 }
 );
 date = "2018-01-01 22:14:49 +0000";
@@ -386,6 +402,15 @@ value = 544;
 {
 name = winAscent;
 value = 1019;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 descender = -411;
@@ -433,6 +458,15 @@ value = 544;
 {
 name = winAscent;
 value = 1019;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
 }
 );
 descender = -431;
@@ -36717,9 +36751,9 @@ nodes = (
 "543 271 OFFCURVE",
 "543 240 CURVE SMOOTH",
 "543 145 LINE SMOOTH",
-"543 89 OFFCURVE",
-"524 106 OFFCURVE",
-"561 106 CURVE",
+"543 119 OFFCURVE",
+"534 106 OFFCURVE",
+"507 106 CURVE",
 "280 106 LINE SMOOTH",
 "151 106 OFFCURVE",
 "65 40 OFFCURVE",
