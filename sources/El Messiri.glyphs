@@ -1,8 +1,5 @@
 {
-.appVersion = "1126";
-DisplayStrings = (
-"/yehbarree-ar"
-);
+.appVersion = "1139";
 copyright = "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)";
 customParameters = (
 {
@@ -48,7 +45,7 @@ name = "Variation Font Origin";
 value = UUID0;
 }
 );
-date = "2018-01-01 22:14:49 +0000";
+date = "2018-05-02 17:40:13 +0000";
 designer = "Mohamed Gaber";
 designerURL = "http://gaberism.net/";
 familyName = "El Messiri";
