@@ -55,7 +55,7 @@ do
     cp $vf ~/Google/fonts/ofl/elmessiri/
 done
 rm ../fonts/variable/*backup*.ttf
-
+mv ~/Google/fonts/ofl/elmessiri/ElMessiri-Roman-VF.ttf ~/Google/fonts/ofl/elmessiri/ElMessiri-Regular.ttf
 #gftools fix-vf-meta $vfs;
 #for vf in $vfs
 #do
