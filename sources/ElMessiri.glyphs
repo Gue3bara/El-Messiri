@@ -1,8 +1,5 @@
 {
-.appVersion = "1233";
-DisplayStrings = (
-"/.notdef"
-);
+.appVersion = "1349";
 copyright = "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)";
 customParameters = (
 {
@@ -56510,7 +56507,6 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 name = Regular;
-weightClass = Normal;
 },
 {
 interpolationWeight = 126;
@@ -61079,5 +61075,5 @@ arBar = "70";
 };
 };
 versionMajor = 2;
-versionMinor = 9;
+versionMinor = 10;
 }
